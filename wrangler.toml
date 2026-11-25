@@ -7,7 +7,7 @@ pages_build_output_dir = "public"
 [[d1_databases]]
 binding = "DB"
 database_name = "d1-drive"
-database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
+database_id = "f4a78013-759b-4911-8a94-df39a15048dd"
 
 # ── Optional HTTP Basic auth for BOTH the web UI API and WebDAV ────
 # Set these as secret env vars instead if you prefer:
